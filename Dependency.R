@@ -8,8 +8,8 @@ if (!require(udpipe)){install.packages("udpipe")}
 if (!require(textrank)){install.packages("textrank")}
 if (!require(lattice)){install.packages("lattice")}
 if (!require(igraph)){install.packages("igraph")}
-if (!require(shinythemes){install.packages("shinythemes")}
-if (!require(DT){install.packages("DT")}
+if (!require(shinythemes)){install.packages("shinythemes")}
+if (!require(DT)){install.packages("DT")}
 
 library(ggraph)
 library(ggplot2)
